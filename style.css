@@ -18,10 +18,8 @@ body {
   min-height: 100vh;
   /* background:linear-gradient(to left,#,#fff); */
   /* background-color: var(--dark-color); */
-  /* background: rgb(238,174,202); */
-  /* background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); */
-  background: rgb(34,193,195);
-background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(216,45,253,1) 100%);
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
   /* background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); */
   overflow: hidden;
   perspective: 1000px;
